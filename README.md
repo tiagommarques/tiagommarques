@@ -1,5 +1,4 @@
-# **Olá! Eu sou o Tiago Marques, estudante de Programação e Tecnologia!**
-##
+## Olá! Eu sou o Tiago Marques, estudante de Programação e Tecnologia!
 - 🌱 Estudando JavaScript, HTML e CSS
 - 😄 Pronouns: ele/dele
 
