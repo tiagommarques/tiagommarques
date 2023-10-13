@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Tiago Marques, estudante de Programação e Tecnologia!
-- 🌱 Estudando Python no momento!
+- 🌱 Estudando Python e Jupyter Notebook no momento!
 - 😄 Pronouns: ele/dele
 
 <div align="center">
